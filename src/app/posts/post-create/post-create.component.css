@@ -1,0 +1,32 @@
+mat-card {
+  background-color:rgba(17, 13, 8, 0.473);
+}
+
+mat-form-field,textarea {
+  width: 100%;
+  background-color: antiquewhite;
+}
+mat-spinner
+{
+  margin: auto;
+}
+
+input[type="file"]
+{
+  visibility: hidden;
+}
+
+.image-preview
+{
+  height: 5rem;
+  margin: 1rem 0;
+}
+
+.image-preview img
+{
+  height: 100%;
+}
+
+button{
+  color: white;
+}

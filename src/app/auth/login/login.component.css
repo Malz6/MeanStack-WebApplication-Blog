@@ -1,0 +1,14 @@
+mat-card
+{
+  background-color:rgba(17, 13, 8, 0.473);
+}
+  mat-form-field{
+  width: 100%;
+  background-color: antiquewhite
+}
+
+mat-spinner
+{
+  margin: auto;
+}
+

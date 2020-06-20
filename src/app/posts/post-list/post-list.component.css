@@ -1,0 +1,33 @@
+mat-expansion-panel {
+  /* background-color: rgba(243, 216, 158, 0.925); */
+  background-color: antiquewhite;
+}
+:host {
+  display: block;
+  margin-top: 1rem;
+}
+
+mat-spinner {
+  margin: auto;
+}
+
+mat-paginator {
+  margin-top: 1rem;
+  background-blend-mode: luminosity;
+  background-color:rgba(17, 13, 8, 0.356);
+}
+
+.info-text {
+  text-align: center;
+}
+
+.post-image {
+  width: 100%;
+}
+
+.post-image img {
+  width: 50%;
+  box-shadow: 1px 1px 5px rgba(0, 0, 0, 0.5);
+}
+
+
