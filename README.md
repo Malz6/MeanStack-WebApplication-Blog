@@ -1,5 +1,10 @@
 # Blog - A MEAN Stack Application
 
+MEAN Stack Implementation – Blog post Application
+•	Use of Angular as the front end, NodeJS and Express framework with MongoDB for the database connection, as the back end. 
+•	Objective: User authentication before creating posts and saving it (includes an option to upload images). Posts can be created, read, edited, updated and deleted.
+•	Specific Functionalities: Authorization of users, error handling and several optimizations are done to ensure security and smooth working of the application.
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.1.3.
 
 ## Development server
